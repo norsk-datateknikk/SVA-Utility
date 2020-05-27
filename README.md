@@ -1,6 +1,9 @@
 # csv2network
 Converts CSV files from Sigilent Vector Spectrum Analyzers to a Scikit RF networks.
 
+By Norsk Datateknikk
+Contact for consulting and product develpment at https://norskdatateknikk.no/
+
 ## Example Code:
 
 ```python
@@ -16,4 +19,4 @@ plt.grid()
 plt.show()
 ```
 
-![Resulting Image](test.py)
+![Resulting Image](result.png)
