@@ -3,6 +3,12 @@ Converts CSV files from Sigilent Vector Spectrum Analyzers to a Scikit RF networ
 
 By Norsk Datateknikk. Contact for consulting and product develpment at https://norskdatateknikk.no/
 
+## Available on PYPI
+https://pypi.org/project/svautil/
+```
+pip install svautil
+```
+
 ## Example Code:
 
 ```python
