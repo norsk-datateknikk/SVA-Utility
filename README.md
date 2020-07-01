@@ -7,10 +7,10 @@ By Norsk Datateknikk. Contact for consulting and product develpment at https://n
 
 ```python
 import numpy as np
-from csv2network import *
+import svautil.vna as vna
 import matplotlib.pyplot as plt
 
-n = csv2network('S21.csv', 'S21')
+n = vna.csv2network('S21.csv', 'S21')
 plt.figure()
 n.plot_s_db()
 plt.grid()
