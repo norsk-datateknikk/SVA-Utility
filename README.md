@@ -5,6 +5,7 @@ By Norsk Datateknikk. Contact for consulting and product develpment at https://n
 
 ## Available on PYPI
 [![Downloads](https://pepy.tech/badge/svautil)](https://pepy.tech/project/svautil)
+
 https://pypi.org/project/svautil/
 ```
 pip install svautil
