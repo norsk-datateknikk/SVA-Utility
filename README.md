@@ -1,5 +1,5 @@
 # csv2network
-Converts CSV files from Sigilent Vector Spectrum Analyzers to a Scikit RF network.
+Converts CSV files from Spectrum & Vector Network Analyzer to a Scikit RF network.
 
 By Norsk Datateknikk. Contact for consulting and product develpment at https://norskdatateknikk.no/
 
