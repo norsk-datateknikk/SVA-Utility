@@ -1,6 +1,8 @@
 # csv2network
 Converts CSV files from Spectrum & Vector Network Analyzer to a Scikit RF network.
 
+Note that the analyzer only saves the content visible on the screen. Ensure that the S21 dB mag and phase are visible.
+
 By Norsk Datateknikk. Contact for consulting and product develpment at https://norskdatateknikk.no/
 
 ## Available on PYPI
